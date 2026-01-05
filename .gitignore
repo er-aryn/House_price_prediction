@@ -1,0 +1,9 @@
+model.pkl
+pipeline.pkl
+output.csv
+input.csv
+input copy.csv
+*.pkl
+*.csv
+# macOS
+.DS_Store
